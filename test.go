@@ -8,8 +8,8 @@ import (
 var k int = 99
 
 //var(
-//	firstname string = "Kevin"
-//	lastname string = "Kevin"
+//	firstName string = "Kevin"
+//	lastName string = "Kevin"
 //	age int = 3
 //)
 func main() {
